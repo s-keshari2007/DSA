@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/s-keshari2007/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/s-keshari2007/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/s-keshari2007/DSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/s-keshari2007/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/s-keshari2007/DSA/tree/master/0547-number-of-provinces) |
 ## Design
 |  |
 | ------- |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/s-keshari2007/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/s-keshari2007/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/s-keshari2007/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
