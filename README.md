@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/s-keshari2007/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-keshari2007/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/s-keshari2007/DSA/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/s-keshari2007/DSA/tree/master/0127-word-ladder) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/s-keshari2007/DSA/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/s-keshari2007/DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/s-keshari2007/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/s-keshari2007/DSA/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/s-keshari2007/DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/s-keshari2007/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/s-keshari2007/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/s-keshari2007/DSA/tree/master/0547-number-of-provinces) |
