@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/s-keshari2007/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-keshari2007/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/s-keshari2007/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0222-count-complete-tree-nodes](https://github.com/s-keshari2007/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/s-keshari2007/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/s-keshari2007/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/s-keshari2007/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/s-keshari2007/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-keshari2007/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/s-keshari2007/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0222-count-complete-tree-nodes](https://github.com/s-keshari2007/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/s-keshari2007/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/s-keshari2007/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/s-keshari2007/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -122,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/s-keshari2007/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/s-keshari2007/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/s-keshari2007/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
