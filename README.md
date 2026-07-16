@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/s-keshari2007/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0207-course-schedule](https://github.com/s-keshari2007/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/s-keshari2007/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/s-keshari2007/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/s-keshari2007/DSA/tree/master/0547-number-of-provinces) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/s-keshari2007/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/s-keshari2007/DSA/tree/master/0127-word-ladder) |
+| [0207-course-schedule](https://github.com/s-keshari2007/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/s-keshari2007/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/s-keshari2007/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/s-keshari2007/DSA/tree/master/0542-01-matrix) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/s-keshari2007/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/s-keshari2007/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/s-keshari2007/DSA/tree/master/0547-number-of-provinces) |
 ## Matrix
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/s-keshari2007/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/s-keshari2007/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
