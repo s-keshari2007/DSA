@@ -37,6 +37,6 @@ public:
         for(int i = 1; i <= n; i++){
             if(vis[i] == 0) return -1;
         }
-        return time_taken ;
+        return time_taken;
     }
 };
