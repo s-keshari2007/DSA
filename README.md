@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/s-keshari2007/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/s-keshari2007/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/s-keshari2007/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/s-keshari2007/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/s-keshari2007/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/s-keshari2007/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/s-keshari2007/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/s-keshari2007/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/s-keshari2007/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/s-keshari2007/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/s-keshari2007/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/s-keshari2007/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/s-keshari2007/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/s-keshari2007/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
