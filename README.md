@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/s-keshari2007/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-keshari2007/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0136-single-number](https://github.com/s-keshari2007/DSA/tree/main/0136-single-number/) | Easy |
 | [0542-01-matrix](https://github.com/s-keshari2007/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/s-keshari2007/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/s-keshari2007/DSA/tree/master/0994-rotting-oranges) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/s-keshari2007/DSA/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/s-keshari2007/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
