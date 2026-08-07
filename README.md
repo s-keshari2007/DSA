@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/s-keshari2007/DSA/tree/master/0127-word-ladder) |
 | [0451-sort-characters-by-frequency](https://github.com/s-keshari2007/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/s-keshari2007/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/s-keshari2007/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/s-keshari2007/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/s-keshari2007/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/s-keshari2007/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/s-keshari2007/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/s-keshari2007/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/s-keshari2007/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/s-keshari2007/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
