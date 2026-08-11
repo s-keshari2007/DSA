@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/s-keshari2007/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/s-keshari2007/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/s-keshari2007/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/s-keshari2007/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/s-keshari2007/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/s-keshari2007/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Depth-First Search
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/s-keshari2007/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/s-keshari2007/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/s-keshari2007/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/s-keshari2007/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/s-keshari2007/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
