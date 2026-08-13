@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-keshari2007/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/s-keshari2007/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/s-keshari2007/DSA/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/s-keshari2007/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/s-keshari2007/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/s-keshari2007/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/s-keshari2007/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/s-keshari2007/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/s-keshari2007/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/s-keshari2007/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/s-keshari2007/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/s-keshari2007/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/s-keshari2007/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/s-keshari2007/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
