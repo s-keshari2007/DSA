@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/s-keshari2007/DSA/tree/main/0136-single-number/) | Easy |
 | [0542-01-matrix](https://github.com/s-keshari2007/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/s-keshari2007/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0907-sum-of-subarray-minimums](https://github.com/s-keshari2007/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/s-keshari2007/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/s-keshari2007/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/s-keshari2007/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/s-keshari2007/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0907-sum-of-subarray-minimums](https://github.com/s-keshari2007/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/s-keshari2007/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/s-keshari2007/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Union-Find
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/s-keshari2007/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0542-01-matrix](https://github.com/s-keshari2007/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/s-keshari2007/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/s-keshari2007/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/s-keshari2007/DSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/s-keshari2007/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Backtracking
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/s-keshari2007/DSA/tree/main/0796-rotate-string/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/s-keshari2007/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 <!---LeetCode Topics End-->
