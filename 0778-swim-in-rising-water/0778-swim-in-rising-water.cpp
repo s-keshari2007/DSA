@@ -4,16 +4,20 @@ public:
         int n = grid.size();
         vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
         // min-heap: {bottleneck_value, row, col}
-        priority_queue<array<int,3>, vector<array<int,3>>, greater<>> pq;
+        priority_queue<pair<int, pair<int,int>>, vector<pair<int, pair<int,int>>>, greater<pair<int, pair<int,int>>>> pq;
         
         dist[0][0] = grid[0][0];
-        pq.push({grid[0][0], 0, 0});
+        pq.push({grid[0][0], {0,0}});
         
         vector<int> dx = {-1, 1, 0, 0};
         vector<int> dy = {0, 0, -1, 1};
         
         while (!pq.empty()) {
-            auto [d, x, y] = pq.top(); pq.pop();
+            auto it = pq.top();
+            int d = it.first;
+            int x = it.second.first;
+            int y = it.second.second;
+            pq.pop();
             
             if (d > dist[x][y]) continue; // stale entry, skip
             if (x == n-1 && y == n-1) return d;
@@ -25,7 +29,7 @@ public:
                 int newBottleneck = max(d, grid[nx][ny]);
                 if (newBottleneck < dist[nx][ny]) {
                     dist[nx][ny] = newBottleneck;
-                    pq.push({newBottleneck, nx, ny});
+                    pq.push({newBottleneck, {nx, ny}});
                 }
             }
         }
