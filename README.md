@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/s-keshari2007/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/s-keshari2007/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/s-keshari2007/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/s-keshari2007/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/s-keshari2007/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/s-keshari2007/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/s-keshari2007/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
