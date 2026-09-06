@@ -1,18 +1,34 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int n = nums.size(); 
-        if (n < 2) return n ? nums[0] : 0;
-        return max(robber(nums, 0, n - 2), robber(nums, 1, n - 1));
+    if (nums.size() == 1) return nums[0];
+    int n = nums.size();
+
+    vector<int> temp1, temp2;
+
+    for(int i = 0; i < n; i++){
+        if(i != 0) temp1.push_back(nums[i]);
+        if(i != n-1) temp2.push_back(nums[i]);
     }
+    return max(rob1(temp1), rob1(temp2));
+}
 private:
-    int robber(vector<int>& nums, int l, int r) {
-        int pre = 0, cur = 0;
-        for (int i = l; i <= r; i++) {
-            int temp = max(pre + nums[i], cur);
-            pre = cur;
-            cur = temp;
+    int rob1(vector<int>& nums) {
+        int n = nums.size();
+        int prev1 = nums[0];
+        int prev2 = 0;
+
+        for(int i = 1; i < n; i++){
+            int take = nums[i];
+            if(i > 1) take += prev2;
+
+            int notTake = 0 + prev1;
+            int curi = max(take,notTake);
+
+            prev2 = prev1;
+            prev1 = curi;
         }
-        return cur;
+
+        return prev1;
     }
 };
