@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/s-keshari2007/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/s-keshari2007/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0062-unique-paths](https://github.com/s-keshari2007/DSA/tree/main/0062-unique-paths/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/s-keshari2007/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/s-keshari2007/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0062-unique-paths](https://github.com/s-keshari2007/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/s-keshari2007/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/s-keshari2007/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0403-frog-jump](https://github.com/s-keshari2007/DSA/tree/main/0403-frog-jump/) | Hard |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/s-keshari2007/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/s-keshari2007/DSA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
