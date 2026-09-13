@@ -36,7 +36,6 @@ public:
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(i == 0 && j == 0) dp[0][0] = grid[i][j];
-                else if(dp[i][j] != -1) continue;
                 else{
                     int up = INT_MAX;
                     int down = INT_MAX;
