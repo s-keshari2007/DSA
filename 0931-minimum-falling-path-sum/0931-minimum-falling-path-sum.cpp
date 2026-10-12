@@ -1,29 +1,27 @@
 class Solution {
-private:
-    int fall(int row,int col,int n,vector<vector<int>>& matrix, vector<vector<int>> &dp){
-        if(row == n - 1) return matrix[row][col];
-        if(dp[row][col] != 1e9) return dp[row][col];
-        int left = INT_MAX;
-        int right = INT_MAX;
-        if(col - 1 >= 0){
-            left = fall(row + 1, col - 1,n, matrix, dp);
-        }
-        if(col + 1 <= n-1){
-            right = fall(row + 1, col + 1,n, matrix, dp);
-        }
-
-        int bottom = fall(row + 1, col,n, matrix, dp);
-        return dp[row][col] = matrix[row][col] + min(bottom, min(left, right));
-    }
 public:
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n = matrix.size();
-        
-        vector<vector<int>> dp(n, vector<int>(n,1e9));
-        int ans = INT_MAX;
-        for(int i = 0; i < n; i++){
-            ans = min(ans, fall(0, i, n ,matrix,dp));
+        vector<vector<int>> dp(n, vector<int>(n, 1e9));
+
+        // Base case: last row
+        for (int j = 0; j < n; j++) {
+            dp[n - 1][j] = matrix[n - 1][j];
         }
-        return ans;
+
+        for (int i = n - 2; i >= 0; i--) {
+            for (int j = 0; j < n; j++) {
+                int best = dp[i + 1][j];                 // straight down
+                if (j > 0)     best = min(best, dp[i + 1][j - 1]);  // down-left
+                if (j < n - 1) best = min(best, dp[i + 1][j + 1]);  // down-right
+                dp[i][j] = matrix[i][j] + best;
+            }
+        }
+
+        int mini = 1e9;
+        for (int i = 0; i < n; i++) {
+            mini = min(mini, dp[0][i]);
+        }
+        return mini;
     }
 };
