@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/s-keshari2007/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/s-keshari2007/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/s-keshari2007/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/s-keshari2007/DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/s-keshari2007/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/s-keshari2007/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/s-keshari2007/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/s-keshari2007/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/s-keshari2007/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/s-keshari2007/DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/s-keshari2007/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/s-keshari2007/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/s-keshari2007/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0721-accounts-merge](https://github.com/s-keshari2007/DSA/tree/main/0721-accounts-merge/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/s-keshari2007/DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/s-keshari2007/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/s-keshari2007/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/s-keshari2007/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/s-keshari2007/DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
