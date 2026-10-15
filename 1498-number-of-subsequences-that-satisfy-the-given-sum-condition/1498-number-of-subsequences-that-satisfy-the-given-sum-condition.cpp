@@ -1,32 +1,23 @@
 class Solution {
 public:
-    int MOD = 1e9 + 7;
-    vector<int> pw;
-    unordered_map<long long, int> memo;
-
-    int f(int l, int r, vector<int>& nums, int target) {
-        if (l > r) return 0;
-
-        long long key = (long long)l * 100001 + r;
-        if (memo.count(key)) return memo[key];
-
-        int res;
-        if (nums[l] + nums[r] > target)
-            res = f(l, r - 1, nums, target);
-        else
-            res = (pw[r - l] + f(l + 1, r, nums, target)) % MOD;
-
-        return memo[key] = res;
-    }
-
     int numSubseq(vector<int>& nums, int target) {
+        int res =  0;
+        int mod = 1e9 + 7;
+        vector<int> pre = {1};
+        for(int i = 0; i < nums.size(); i++)
+        pre.push_back((pre.back() << 1) % mod);
+
         sort(nums.begin(), nums.end());
 
-        pw.resize(nums.size() + 1);
-        pw[0] = 1;
-        for (int i = 1; i < pw.size(); i++)
-            pw[i] = pw[i - 1] * 2 % MOD;
+        for(int i = 0, j = nums.size() - 1; i <= j; i++){
 
-        return f(0, nums.size() - 1, nums, target);
+            while(j>= 0 && nums[i] + nums[j] > target) --j;
+
+            if(j >= i){
+                int pw = pre[j - i];
+                res = (res + pw) % mod;
+            }
+        }
+        return res;
     }
 };
