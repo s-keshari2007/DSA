@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/s-keshari2007/DSA/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/s-keshari2007/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/s-keshari2007/DSA/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/s-keshari2007/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/s-keshari2007/DSA/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/s-keshari2007/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/s-keshari2007/DSA/tree/main/0733-flood-fill/) | Easy |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/s-keshari2007/DSA/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/s-keshari2007/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/s-keshari2007/DSA/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/s-keshari2007/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/s-keshari2007/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/s-keshari2007/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/s-keshari2007/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -365,9 +367,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/s-keshari2007/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/s-keshari2007/DSA/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/s-keshari2007/DSA/tree/main/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/s-keshari2007/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/s-keshari2007/DSA/tree/main/0494-target-sum/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/s-keshari2007/DSA/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
