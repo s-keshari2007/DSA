@@ -1,24 +1,25 @@
 class Solution {
-private:
-    int f(int ind,vector<int>& coins, int target,vector<vector<int>> &dp){
-        if(target == 0) return 1;
-        
-        if(dp[ind][target] != -1)return dp[ind][target];
-
-
-        int notTake = 0;
-        if(ind > 0)notTake = f(ind - 1, coins, target,dp);
-        int take = 0;
-        if(target >= coins[ind]) take = f(ind, coins, target - coins[ind],dp);
-
-        return dp[ind][target] = take + notTake;
-    }
 public:
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
 
-        vector<vector<int>>dp(n ,vector<int>(amount + 1,-1));
-        //sort(coins.begin(), coins.end());
-        return f(n - 1, coins, amount,dp);
+        vector<vector<unsigned long long>> dp(n, vector<unsigned long long>(amount + 1, 0));
+
+        // base case: only the first coin available
+        for (int target = 0; target <= amount; target++) {
+            if (target % coins[0] == 0) dp[0][target] = 1;
+        }
+
+        for (int ind = 1; ind < n; ind++) {
+            for (int target = 0; target <= amount; target++) {
+                unsigned long long notTake = dp[ind - 1][target];
+                unsigned long long take = 0;
+                if (target >= coins[ind]) take = dp[ind][target - coins[ind]];
+
+                dp[ind][target] = take + notTake;
+            }
+        }
+
+        return (int)dp[n - 1][amount];
     }
 };
