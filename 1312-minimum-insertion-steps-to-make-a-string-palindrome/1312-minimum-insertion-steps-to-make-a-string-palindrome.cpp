@@ -1,7 +1,7 @@
 class Solution {
 private:
     int f(int st, int end, string &s, vector<vector<int>> &dp){
-        if(st >= end) return 0;
+        if(st > end) return 0;
 
         if(dp[st][end] != -1) return dp[st][end];
         
