@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/s-keshari2007/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/s-keshari2007/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/s-keshari2007/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/s-keshari2007/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/s-keshari2007/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0796-rotate-string](https://github.com/s-keshari2007/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s-keshari2007/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/s-keshari2007/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/s-keshari2007/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/s-keshari2007/DSA/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/s-keshari2007/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/s-keshari2007/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/s-keshari2007/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/s-keshari2007/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -386,5 +388,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/s-keshari2007/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/s-keshari2007/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
