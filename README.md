@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/s-keshari2007/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/s-keshari2007/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/s-keshari2007/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0072-edit-distance](https://github.com/s-keshari2007/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/s-keshari2007/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/s-keshari2007/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/s-keshari2007/DSA/tree/master/0127-word-ladder) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/s-keshari2007/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/s-keshari2007/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/s-keshari2007/DSA/tree/main/0064-minimum-path-sum/) | Medium |
+| [0072-edit-distance](https://github.com/s-keshari2007/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/s-keshari2007/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/s-keshari2007/DSA/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/s-keshari2007/DSA/tree/main/0198-house-robber/) | Medium |
