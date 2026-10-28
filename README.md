@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/s-keshari2007/DSA/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/s-keshari2007/DSA/tree/main/0044-wildcard-matching/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/s-keshari2007/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/s-keshari2007/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/s-keshari2007/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0044-wildcard-matching](https://github.com/s-keshari2007/DSA/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/s-keshari2007/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/s-keshari2007/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/s-keshari2007/DSA/tree/master/0126-word-ladder-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/s-keshari2007/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0044-wildcard-matching](https://github.com/s-keshari2007/DSA/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/s-keshari2007/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/s-keshari2007/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/s-keshari2007/DSA/tree/main/0064-minimum-path-sum/) | Medium |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/s-keshari2007/DSA/tree/main/0044-wildcard-matching/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s-keshari2007/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
