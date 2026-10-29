@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/s-keshari2007/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-keshari2007/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/s-keshari2007/DSA/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/s-keshari2007/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/s-keshari2007/DSA/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/s-keshari2007/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/s-keshari2007/DSA/tree/main/0213-house-robber-ii/) | Medium |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/s-keshari2007/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/s-keshari2007/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/s-keshari2007/DSA/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/s-keshari2007/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/s-keshari2007/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/s-keshari2007/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0403-frog-jump](https://github.com/s-keshari2007/DSA/tree/main/0403-frog-jump/) | Hard |
