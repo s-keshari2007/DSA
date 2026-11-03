@@ -1,15 +1,25 @@
+// dp approach wth memoiztaion
 class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-        int sum = 0;
+private:
+    int f(int ind, int buy,vector<int>& prices, int n, vector<vector<int>> &dp){
+        if(ind == n) return 0;
 
-        for (int i = 0; i < n - 1; i++) {
-            if (prices[i] < prices[i + 1]) {
-                sum += prices[i + 1] - prices[i];
-            }
+        if(dp[ind][buy] != -1) return dp[ind][buy];
+        int profit = 0;
+        if(buy == 1){
+            profit = max(-prices[ind] + f(ind + 1, 0, prices, n,dp), 0 + f(ind + 1, 1, prices, n,dp));
         }
 
-        return sum;
+        else{
+            profit = max(prices[ind] + f(ind + 1, 1, prices, n,dp), 0 + f(ind + 1, 0, prices, n,dp));
+        }
+
+        return dp[ind][buy] = profit;
+    }
+public:
+    int maxProfit(vector<int>& prices) {
+        int n  = prices.size();
+        vector<vector<int>> dp(n, vector<int>(2, -1));
+        return f(0, 1, prices, n,dp);
     }
 };
