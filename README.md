@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/s-keshari2007/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/s-keshari2007/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/s-keshari2007/DSA/tree/master/0994-rotting-oranges) |
+| [1048-longest-string-chain](https://github.com/s-keshari2007/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/s-keshari2007/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/s-keshari2007/DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/s-keshari2007/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/s-keshari2007/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/s-keshari2007/DSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/s-keshari2007/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1048-longest-string-chain](https://github.com/s-keshari2007/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/s-keshari2007/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/s-keshari2007/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Divide and Conquer
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/s-keshari2007/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s-keshari2007/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/s-keshari2007/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1048-longest-string-chain](https://github.com/s-keshari2007/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/s-keshari2007/DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/s-keshari2007/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/s-keshari2007/DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/s-keshari2007/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/s-keshari2007/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/s-keshari2007/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1048-longest-string-chain](https://github.com/s-keshari2007/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/s-keshari2007/DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/s-keshari2007/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/s-keshari2007/DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/s-keshari2007/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/s-keshari2007/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0721-accounts-merge](https://github.com/s-keshari2007/DSA/tree/main/0721-accounts-merge/) | Medium |
+| [1048-longest-string-chain](https://github.com/s-keshari2007/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/s-keshari2007/DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -336,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/s-keshari2007/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/s-keshari2007/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/s-keshari2007/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [1048-longest-string-chain](https://github.com/s-keshari2007/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/s-keshari2007/DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
